@@ -1,1 +1,1 @@
-# tbsf-docs
+This repository hosts the Documentation of the Turn Based Strategy Framework project, a versatile toolkit available on the Unity Asset Store. For detailed information about the Framework and its capabilities, please visit [http://u3d.as/mfd](http://u3d.as/mfd).
